@@ -3,7 +3,7 @@
 # 💫 Quem sou eu: <br>
 
 Me chamo George Henrique, empolgado por novos desafios, me afastei da Contabilidade e estou em transição de carreira.<br>
-Desde então decidi me especializar na área de desenvolvedor de Software e se tornar um <b>Desenvolverdor FullStack</b>.<br>
+Desde então decidi me especializar na área de desenvolvedor de Software e se tornar um <b>Desenvolvedor FullStack</b>.<br>
 Estou cursando Engenharia de Software, morando na Alemanha, onde estou aprendendo Alemão e colocando meu Inglês em prática.<br>
 ### Saiba mais no [LinkedIn](https://www.linkedin.com/in/georgehenrique/) !
 
