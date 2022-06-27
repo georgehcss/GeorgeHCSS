@@ -1,5 +1,5 @@
-# Seja bem vindo ao meu Github!
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4F8FF7&lines=Seja+Bem+Vindo+ao+meu+Github+!)](https://git.io/typing-svg)
 # 💫 Quem sou eu: <br>
 
 Me chamo George Henrique, empolgado por novos desafios, me afastei da Contabilidade e estou em transição de carreira.<br>
