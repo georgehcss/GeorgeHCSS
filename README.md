@@ -5,7 +5,7 @@
 Me chamo George Henrique, empolgado por novos desafios, me afastei da Contabilidade e estou em transição de carreira.<br>
 Desde então decidi me especializar na área de desenvolvedor de Software e se tornar um <b>Desenvolvedor FullStack</b>.<br>
 Estou cursando Engenharia de Software na [Ampli](https://www.ampli.com.br/) e Curos de Formanção de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) (FullStack - Front-End e Back-End), com foco em JavaScript, HTML, CSS, React, Node, Express.js, MySQL, Docker, TypeScript, MongoDB e (em breve) Python.<br>
-### Saiba mais no [LinkedIn](https://www.linkedin.com/in/georgehenrique/) !
+### Saiba mais no [LinkedIn](https://www.linkedin.com/in/georgehcss/) !
 
 ---
 
